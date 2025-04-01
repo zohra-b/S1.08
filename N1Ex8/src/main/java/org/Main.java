@@ -1,0 +1,28 @@
+package org;
+
+
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
+import java.util.stream.Collectors;
+
+import static java.util.Collections.reverse;
+
+public class Main {
+    public static void main(String[] args) {
+
+        ReverseInterface s = (s1) -> {
+           List myString = Arrays.asList(s1.split(""));
+           Collections.reverse(myString);
+           return String.join("", myString);
+
+        };
+
+        String hello = "hello";
+
+        System.out.println (s.reverse(hello));
+    }
+
+
+
+}
