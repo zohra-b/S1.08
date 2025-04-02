@@ -50,6 +50,15 @@ Strings containing an "e" first, the rest of the strings after. Put the code dir
 Modify all elements in the list that have an 'a'. Modify the 'a' to a '4'.
 Only display elements that are numeric. (Even if they are stored as Strings).
 
+### 📌 Level 3
+Create a Student class with the attributes: Name, age, year and grade.
+Fill a list with 10 students
+Display the name and age of each student on the screen.
+Filter the list for all students whose name begins with ‘a’. Assign these students to another list and display the new list on the screen (all with lambdas).
+Filter and display on the screen the students who have a grade of 5 or higher.
+Filter and display on the screen the students who have a grade of 5 or higher, and who are not from PHP.
+Display all students who do JAVA and are of legal age.
+
 ---
 ## 🚀 Getting Started
 
