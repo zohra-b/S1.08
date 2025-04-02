@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/N1Ex1To4/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/N1Ex1To4/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/N1Ex5/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/N1Ex5/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/N1Ex6/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/N1Ex6/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/N1Ex8/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/N1Ex8/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/N1/N1Ex1To4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/N1/N1Ex1To4/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/N1/N1Ex5/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/N1/N1Ex5/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/N1/N1Ex6-7/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/N1/N1Ex6-7/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/N1/N1Ex8/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/N1/N1Ex8/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/N1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/N1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/N2/N2Ex1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/N2/N2Ex1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/N2/N2Ex2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/N2/N2Ex2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/N2/N2Ex3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/N2/N2Ex3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/N2/N2Ex4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/N2/N2Ex4/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/N2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/N2/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
