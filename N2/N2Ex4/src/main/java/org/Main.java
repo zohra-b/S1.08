@@ -39,7 +39,7 @@ public class Main {
         System.out.println(sortedEFirst);
 
         List<String> replacingA = sortedEFirst.stream()
-                .map(s -> s.toLowerCase().replace('a', '4'))
+                .map(s -> s.replace('a', '4').replace('A', '4'))
                 .toList();
 
         System.out.println(replacingA);
