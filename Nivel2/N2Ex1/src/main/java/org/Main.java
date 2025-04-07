@@ -15,15 +15,10 @@ public class Main {
         names.add("Berta");
         names.add("Luci");
 
-//        ArrayList<String> namesWithA = new ArrayList<>();
-//        for (String name : names){
-//            if (name.startsWith("A") && name.length()==3){
-//                namesWithA.add(name);
-//            }
 
         List<String> namesWithA = names.stream()
                 .filter(name -> name.startsWith("A") && name.length()==3)
-                .collect(Collectors.toList());
+                .toList();
 
         System.out.println(namesWithA);
     }
