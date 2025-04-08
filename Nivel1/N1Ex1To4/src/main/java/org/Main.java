@@ -2,6 +2,7 @@ package org;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.stream.Collectors;
 
 public class Main {
     public static void main(String[] args) {
@@ -22,8 +23,7 @@ public class Main {
 
         //EXERCISE 2
         List<String> withOMoreThanFive = myList.stream()
-                .filter(s -> s.contains("o"))
-                .filter(s -> s.length() >=5)
+                .filter(s -> s.contains("o") && s.length() >=5 )
                 .toList();
 
         System.out.println("Ex2 : Strings containing O and >= 5 caracters : " + withOMoreThanFive);

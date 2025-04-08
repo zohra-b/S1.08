@@ -23,6 +23,6 @@ public class Main {
 
         //EXERCISE 7
         List<String> reverseOrder = sortedLength.reversed();
-        System.out.println("Exercise 6: \n" + reverseOrder);
+        System.out.println("Exercise 7: \n" + reverseOrder);
     }
 }
